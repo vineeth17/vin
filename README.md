@@ -4,4 +4,4 @@ b=3
 (if a<b):
 print(a,'is low')
 else:
-print (b,'is high')
+print(b,'is high')
