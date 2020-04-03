@@ -1,1 +1,1 @@
-# vin
+print("Hello world")
